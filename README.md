@@ -11,7 +11,7 @@ Clienter (Intagram clone)
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fhappy-client-icon-simple-style-vector-22606527&psig=AOvVaw3JJEAjScTkFfnrNfTAznt5&ust=1696758248225000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiMiZjT44EDFQAAAAAdAAAAABAG)" alt="License MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vectorstock.com%2Froyalty-free-vector%2Fhappy-client-icon-simple-style-vector-22606527&psig=AOvVaw3JJEAjScTkFfnrNfTAznt5&ust=1696758248225000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiMiZjT44EDFQAAAAAdAAAAABAG)" alt="apache licence">
   </a>
 </p>
 
@@ -57,4 +57,4 @@ This app features all the latest tools and practices in web development!
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+This project is licensed under the Apache licence - see the [LICENSE]([https://opensource.org/licenses/MIT](http://www.apache.org/licenses/LICENSE-2.0)http://www.apache.org/licenses/LICENSE-2.0) page for details.
